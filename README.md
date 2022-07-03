@@ -1,5 +1,5 @@
 # Hostel Management System
-This is a PHP Project that use MYSQL database for creating a Event Management System.
+This is a PHP Project that use MYSQL database for creating a Hostel Management System.
 
 # Getting Started
 <h3>Step 1 : Start Localhost</h3>
