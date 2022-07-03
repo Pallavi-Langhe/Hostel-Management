@@ -3,7 +3,7 @@ This is a PHP Project that use MYSQL database for creating a Event Management Sy
 
 # Getting Started
 First, run the Apache and MySQL server
-![xampp ss](https://user-images.githubusercontent.com/91686147/177033844-3e58c791-47eb-4a05-86b9-67abb16bca3e.PNG)
+![xampp ss](https://user-images.githubusercontent.com/91686147/177033996-7bfb1ba3-8dde-4dc7-9780-3379eed0cc4f.PNG)
 
 open http://localhost/phpmyadmin/index.php? click on New, enter database name as hostel.
 ![new database](https://user-images.githubusercontent.com/91686147/177033840-91f1fde4-6b6e-44d0-a0ea-edc6b7978bbd.PNG)
@@ -13,6 +13,7 @@ Import .sql file from database.
 
 Open http://localhost/hostel/index.php with your localhost to see the result.
 ![home](https://user-images.githubusercontent.com/91686147/177033954-68f05bcd-d4d9-4667-8f8b-d6d2883e53c8.PNG)
+
 
 
 
