@@ -2,7 +2,7 @@
 This is a PHP Project that use MYSQL database for creating a Event Management System.
 
 # Getting Started
-First, run the Apache and MySQL server
+<h3> First, run the Apache and MySQL server </h3>
 
 ![xampp ss](https://user-images.githubusercontent.com/91686147/177033996-7bfb1ba3-8dde-4dc7-9780-3379eed0cc4f.PNG)
 
