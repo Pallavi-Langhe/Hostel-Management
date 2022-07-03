@@ -62,6 +62,16 @@ Open http://localhost/hostel/index.php with your localhost to see the result.
 
 ![add new room](https://user-images.githubusercontent.com/91686147/177044602-abc958b1-dafc-4aa4-b3d2-46a814a06724.PNG)
 
+<h3>Course Details</h3>
+
+![course details](https://user-images.githubusercontent.com/91686147/177044925-2df38a68-e2d9-415e-8643-eb4fc91e5c35.PNG)
+
+
+
+
+
+
+
 
 
 
