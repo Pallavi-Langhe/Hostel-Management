@@ -36,7 +36,7 @@ Open http://localhost/hostel/index.php with your localhost to see the result.
 
 <h3>Update Profile</h3>
 
-![update profile](https://user-images.githubusercontent.com/91686147/177044436-2416e472-f9c9-4c32-9834-e2878965e628.PNG)
+![update profile](https://user-images.githubusercontent.com/91686147/177045009-5d063131-0b77-4068-b1a9-83443bff8fa8.PNG)
 
 <h3>Change Password</h3>
 
@@ -65,6 +65,7 @@ Open http://localhost/hostel/index.php with your localhost to see the result.
 <h3>Course Details</h3>
 
 ![course details](https://user-images.githubusercontent.com/91686147/177044925-2df38a68-e2d9-415e-8643-eb4fc91e5c35.PNG)
+
 
 
 
