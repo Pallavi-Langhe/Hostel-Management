@@ -66,7 +66,9 @@ Open http://localhost/hostel/index.php with your localhost to see the result.
 
 ![course details](https://user-images.githubusercontent.com/91686147/177044925-2df38a68-e2d9-415e-8643-eb4fc91e5c35.PNG)
 
+<h3>Forget Password</h3>
 
+![forget pass](https://user-images.githubusercontent.com/91686147/177045325-4720d051-6895-4bed-8a72-5835e6edd96c.PNG)
 
 
 
